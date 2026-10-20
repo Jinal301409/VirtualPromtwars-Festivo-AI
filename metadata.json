@@ -2,5 +2,7 @@
   "name": "Festivo AI - GenAI Event Planner",
   "description": "AI-powered event planning web app for weddings, birthdays, and community events with INR budget planner, milestone timelines, vendor checklists, and print export.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
